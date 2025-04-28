@@ -1,9 +1,6 @@
-/*
 import imgRosasRojas from "../../assets/image/floresRojas.jpg";
 import imgRosasAmarillas from "../../assets/image/floresAmarillas.jpg";
-*/
 
-/*
 import decoracion1 from "../../assets/decoracion/decoracion1.jpg";
 import decoracion2 from "../../assets/decoracion/decoration2.jpg";
 import decoracion3 from "../../assets/decoracion/decoracion3.jpg";
@@ -21,9 +18,7 @@ import decoracion14 from "../../assets/decoracion/decoracion16.jpg";
 import decoracion15 from "../../assets/decoracion/decoracion18.jpg";
 import decoracion16 from "../../assets/decoracion/decoracion19.jpg";
 import decoracion17 from "../../assets/decoracion/decoracion20.jpg";
-*/
 
-/*
 import flor1 from "../../assets/flores/flor1.jpg";
 import flor2 from "../../assets/flores/flor2.jpg";
 import flor3 from "../../assets/flores/flor3.jpg";
@@ -47,9 +42,7 @@ import flor20 from "../../assets/flores/flor20.jpg";
 import flor21 from "../../assets/flores/flor21.jpg";
 import flor24 from "../../assets/flores/flor24.jpg";
 import flor25 from "../../assets/flores/flor25.jpg";
-*/
 
-/*
 import personalizados1 from "../../assets/personalizados/personalizado1.jpg";
 import personalizados2 from "../../assets/personalizados/personalizado2.jpg";
 import personalizados3 from "../../assets/personalizados/personalizado3.jpg";
@@ -62,15 +55,13 @@ import personalizados9 from "../../assets/personalizados/personalizado9.jpg";
 import personalizados10 from "../../assets/personalizados/personalizado10.jpg";
 import personalizados11 from "../../assets/personalizados/personalizado11.jpg";
 import personalizados12 from "../../assets/personalizados/personalizado12.jpg";
-*/
 
-/*
 import promocion1 from "../../assets/promociones/promocionMadre.jpeg";
 import promocion2 from "../../assets/promociones/promocionMadre1.jpeg";
 import promocion3 from "../../assets/promociones/promocionMadre2.jpeg";
 import promocion4 from "../../assets/promociones/promocionMadre3.jpeg";
 
-*/
+/*
 import imgRosasRojas from "/PjFlow-Deco/practiceTailwind/assets/image/floresRojas.jpg";
 import imgRosasAmarillas from "/PjFlow-Deco/practiceTailwind/assets/image/floresAmarillas.jpg";
 
@@ -133,7 +124,7 @@ import promocion1 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promoci
 import promocion2 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre1.jpeg";
 import promocion3 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre2.jpeg";
 import promocion4 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre3.jpeg";
-
+*/
 export const dataProducts = [
 	{
 		id: 1,
