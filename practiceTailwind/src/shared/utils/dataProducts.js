@@ -1,6 +1,9 @@
+/*
 import imgRosasRojas from "../../assets/image/floresRojas.jpg";
 import imgRosasAmarillas from "../../assets/image/floresAmarillas.jpg";
+*/
 
+/*
 import decoracion1 from "../../assets/decoracion/decoracion1.jpg";
 import decoracion2 from "../../assets/decoracion/decoration2.jpg";
 import decoracion3 from "../../assets/decoracion/decoracion3.jpg";
@@ -18,7 +21,9 @@ import decoracion14 from "../../assets/decoracion/decoracion16.jpg";
 import decoracion15 from "../../assets/decoracion/decoracion18.jpg";
 import decoracion16 from "../../assets/decoracion/decoracion19.jpg";
 import decoracion17 from "../../assets/decoracion/decoracion20.jpg";
+*/
 
+/*
 import flor1 from "../../assets/flores/flor1.jpg";
 import flor2 from "../../assets/flores/flor2.jpg";
 import flor3 from "../../assets/flores/flor3.jpg";
@@ -42,7 +47,9 @@ import flor20 from "../../assets/flores/flor20.jpg";
 import flor21 from "../../assets/flores/flor21.jpg";
 import flor24 from "../../assets/flores/flor24.jpg";
 import flor25 from "../../assets/flores/flor25.jpg";
+*/
 
+/*
 import personalizados1 from "../../assets/personalizados/personalizado1.jpg";
 import personalizados2 from "../../assets/personalizados/personalizado2.jpg";
 import personalizados3 from "../../assets/personalizados/personalizado3.jpg";
@@ -55,11 +62,77 @@ import personalizados9 from "../../assets/personalizados/personalizado9.jpg";
 import personalizados10 from "../../assets/personalizados/personalizado10.jpg";
 import personalizados11 from "../../assets/personalizados/personalizado11.jpg";
 import personalizados12 from "../../assets/personalizados/personalizado12.jpg";
+*/
 
+/*
 import promocion1 from "../../assets/promociones/promocionMadre.jpeg";
 import promocion2 from "../../assets/promociones/promocionMadre1.jpeg";
 import promocion3 from "../../assets/promociones/promocionMadre2.jpeg";
 import promocion4 from "../../assets/promociones/promocionMadre3.jpeg";
+
+*/
+import imgRosasRojas from "/PjFlow-Deco/practiceTailwind/assets/image/floresRojas.jpg";
+import imgRosasAmarillas from "/PjFlow-Deco/practiceTailwind/assets/image/floresAmarillas.jpg";
+
+import decoracion1 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion1.jpg";
+import decoracion2 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoration2.jpg";
+import decoracion3 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion3.jpg";
+import decoracion4 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion4.jpg";
+import decoracion5 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion5.jpg";
+import decoracion6 from "/PjFlow-Deco/practiceTailwind../../assets/decoracion/decoracion6.jpg";
+import decoracion7 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion7.jpg";
+import decoracion8 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion8.jpeg";
+import decoracion9 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion9.jpg";
+import decoracion10 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion10.jpg";
+import decoracion11 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion11.jpg";
+import decoracion12 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion13.jpg";
+import decoracion13 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion14.jpg";
+import decoracion14 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion16.jpg";
+import decoracion15 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion18.jpg";
+import decoracion16 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion19.jpg";
+import decoracion17 from "/PjFlow-Deco/practiceTailwind/assets/decoracion/decoracion20.jpg";
+
+import flor1 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor1.jpg";
+import flor2 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor2.jpg";
+import flor3 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor3.jpg";
+import flor4 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor4.jpg";
+import flor5 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor5.jpg";
+import flor6 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor6.jpg";
+import flor7 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor7.jpg";
+import flor8 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor8.jpg";
+import flor9 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor9.jpg";
+import flor10 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor10.jpg";
+import flor11 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor11.jpg";
+import flor12 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor12.jpg";
+import flor13 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor13.jpg";
+import flor14 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor14.jpg";
+import flor15 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor15.jpg";
+import flor16 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor16.jpg";
+import flor17 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor17.jpg";
+import flor18 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor18.jpg";
+import flor19 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor19.jpg";
+import flor20 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor20.jpg";
+import flor21 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor21.jpg";
+import flor24 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor24.jpg";
+import flor25 from "/PjFlow-Deco/practiceTailwind/assets/flores/flor25.jpg";
+
+import personalizados1 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado1.jpg";
+import personalizados2 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado2.jpg";
+import personalizados3 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado3.jpg";
+import personalizados4 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado4.jpg";
+import personalizados5 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado5.jpg";
+import personalizados6 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado6.jpg";
+import personalizados7 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado7.jpg";
+import personalizados8 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado8.jpg";
+import personalizados9 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado9.jpg";
+import personalizados10 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado10.jpg";
+import personalizados11 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado11.jpg";
+import personalizados12 from "/PjFlow-Deco/practiceTailwind/assets/personalizados/personalizado12.jpg";
+
+import promocion1 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre.jpeg";
+import promocion2 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre1.jpeg";
+import promocion3 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre2.jpeg";
+import promocion4 from "/PjFlow-Deco/practiceTailwind/assets/promociones/promocionMadre3.jpeg";
 
 export const dataProducts = [
 	{
